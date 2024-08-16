@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.color-counts {
+  margin-top: 20px;
+}
+
+.color-counts h2 {
+  margin-bottom: 10px;
+}
+
+.color-counts p {
+  margin: 5px 0;
+  font-size: 18px;
+}
